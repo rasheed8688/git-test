@@ -1,1 +1,6 @@
-trying to working diff command
+
+trying to working diff comman
+trying to update the bug branch
+
+
+tryig to work on diff
